@@ -14,12 +14,12 @@ A simple Python game where the player tries to guess a randomly selected number 
 3. Try to guess the correct number!
 
 ## Example
-Enter your guess: 40
-Too low! Try again.
-Enter your guess: 70
-Too high! Try again.
-Enter your guess: 55
-Congratulations! You guessed the number in 3 tries.
+-Enter your guess: 40
+-Too low! Try again.
+-Enter your guess: 70
+-Too high! Try again.
+-Enter your guess: 55
+-Congratulations! You guessed the number in 3 tries.
 
 ##Author
 Marwa Ababneh
